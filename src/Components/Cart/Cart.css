@@ -1,0 +1,30 @@
+.orange{
+    background-color: orange;
+
+
+}
+
+.blue{
+    background-color: rgb(0, 60, 255);
+
+
+}
+.red{
+    background-color: rgb(255, 0, 0);
+
+
+}
+.yellow{
+    background-color: #f2ff00;
+
+
+}
+.purple{
+    background-color: rgb(218, 44, 186);
+
+
+}
+
+.bold{
+    font-weight: bold;
+}
